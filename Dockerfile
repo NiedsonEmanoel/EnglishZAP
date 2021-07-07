@@ -6,7 +6,7 @@ WORKDIR /usr/src/app
 ENV MODE=PRODUCTION
 
 #Mongo Link
-ENV MONGO=mongodb+srv://niedson:10-20-30@cluster0.dgppv.mongodb.net/test
+ENV MONGO=
 
 EXPOSE 3001
 
