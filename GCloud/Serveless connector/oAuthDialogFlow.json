@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "testechat-wnga",
+  "private_key_id": "125a8fbbc0ad54d93e3f287e15db4c7ade2dd770",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCxVCDQ7DH0AL22\nlNQT5IMDKKKRLI92rTklhcE4NqbrXLTzNIxAZKjXSM67NzrhEvlmW2vdXeHnS2xf\ndEeKpGSqqu37d8SUTRDb9/FRuS+hfci2lXUZ3LramwYVs23M13bz52qVEHVXYzI4\nYM6pxi3YSfZ7cCM2lhCQZVvtOieI35eh9OpWxlYUYNKrEgj4BaJdPlCtg2U2MRXF\n5xD5f39DzgIOIBlXdP2sTAsOjJJ5fI+HyA+m9xXfcTDmIcLtKxlPrfAHexT4o0Nr\nKFCkUm+RNBAlVkKRwwnRXLYwbUVfKOdxEj9LdomnB0Urw9XXZvlQPTSQC1YqQclY\nAmo1S81xAgMBAAECggEADDDd7q8GQiGY6UfzCokPrrRo9LUNCdofzyISZgRv1kdx\n0zR+HeEtsFs7hyhlXlrZFX3cfQP6x1Vqlmdekbv6hbcplDuoIo/nxE+X4gfqq94D\nYfYFbmk72VKGCRDkUAxSC7ORorzWbFMP/Us+efJ7bV6sWNEdQp/vdJXbS4RPenvT\nTg4PszBNroxv62H4ybrIfrj4Pg7sxuU9T/LHLugM3PK/ILh1Pvmoclxt1JNfqFRZ\n/rqFYS7qqCLxgkPMrSD2gFBufO2KtwYmwpnK/l3aJzEK+CaQ8H+ybXtp/6rw0zOM\nU1C+5BcJm7VrDUozLWX4cK9yg4Dq3zRZSrs8DqxSaQKBgQDiTBzRGms1b9ZYh53+\nPNPUkaCIxLuNGFnVyXzMtgpyIzBJqftYog0S/gmLFc61uAEt3qENrRr1GA+Zu/xU\nWlw7E7q2b1B46GD/bNbc42irK6YCHG/zZUgTWRKao/ppBAA5zMfEAkMTj9lh0tUn\nN/448TxFOt+vyioVv+ZgSIcpvQKBgQDImppvXB4q6DTETFAJf4ezvktPOSRplaTI\nUEaFDjuI4Vdm4rQ5SIRUtGdATiEyp74DIxYDNuVBs+Lugz//lKzashTfkm0NRcMP\nIxPMNl4h3Lj5B2uaQcelENvSeWOiMX0yGHuP1ePYkrQGIzH8kslwXEhfwLSI9uD8\nEBUP3iTbxQKBgCtU0avEeETaLlvzU/Brq1AntmqZ6SPCRull1GzKasOiM0vXrZYy\nKXi6hg9I1LT9D9S9rW8V93R47/vLAC0SxFhXlcf7FpigPnqKV7YiIVetWvNKiLE9\ncoip5KMRxRA4wOZQbOv+VuO3BrPxj/kbgqVao+TJui1J87cIcM9888ytAoGAVSFn\nEIMjOko4umU4Qg+g4yKKiyBQ143t1CRdCPI1Sa13je3/VZ/0qI22k4+Ufw64kFQ/\nbzXIrM1OLLH+YtQRVu3j9c0KAmvsj2vvZuZbpDsrNGN1wozP0LkK0JM7OQWPf8bs\nCOpYOvxm8YPWHr2cRtai0B/TfZxndhDNH2LCeZECgYAqICoKl4/8kgchhm7IUsrs\nuNY9uB8OZw5sT351T6DokoPSJDz2j8hnf3OtFJBvmh/X8rd0LygYY5bNEitmFbQP\n0VGk9G8jw6OA7E1hsZ9ZwvuodYOiHNONzUqj+wMtEv/TWbLQnqGrIKomFQyCI1HY\nd1Zb1SDNHKfw+fnZYQWVHw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow@testechat-wnga.iam.gserviceaccount.com",
+  "client_id": "111624564356403015790",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow%40testechat-wnga.iam.gserviceaccount.com"
+}

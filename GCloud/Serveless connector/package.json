@@ -1,0 +1,9 @@
+{
+  "name": "sample-http",
+  "version": "0.0.1",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "moment": "^2.29.1",
+    "@google-cloud/dialogflow": "^3.4.0"
+  }
+}
